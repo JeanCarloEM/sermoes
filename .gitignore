@@ -1,0 +1,10 @@
+.~*
+*.log
+*.ppt
+*.pps
+*.pptx
+*.ppsx
+*.psd
+assets/
+build/
+!modelos/
