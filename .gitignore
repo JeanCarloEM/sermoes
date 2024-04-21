@@ -8,3 +8,5 @@
 assets/
 build/
 !modelos/
+*.pdf
+!egw/*.pdf
