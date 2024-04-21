@@ -5,8 +5,12 @@
 *.pptx
 *.ppsx
 *.psd
+*.zip
 assets/
 build/
 !modelos/
-*.pdf
+slide.pdf
+slides.pdf
+*slide.pdf
+*slides.pdf
 !egw/*.pdf
